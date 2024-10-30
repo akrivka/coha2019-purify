@@ -1,4 +1,7 @@
 # Purify
+
+_[Copernicus Hackathon Brno 2019](https://fb.me/e/22HWoupjR) 2nd place_.
+
 ## Find your healthy path
 
 * cams.py 
